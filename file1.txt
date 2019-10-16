@@ -14,8 +14,9 @@ sysout("changes for showing new merge");
 
     MyMethod();	//call my method 
 }
-mymethod(){
+String mymethod(){
   sysout("MyMethod");
+    return string;
 }
 
 }
