@@ -11,6 +11,10 @@ sysout("working on new file");
 sysout("working on the main branch directly");
 sysout("changes for showing new merge");
 
+mymethod(){
+  sysout("MyMethod");
+}
+
 }
 x
 }
